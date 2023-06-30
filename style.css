@@ -2,13 +2,7 @@
 margin: 0;
 padding: 0;
 
-
 }
-
-
-
-
-
 
 header {
 background-color: #424e61;
@@ -18,19 +12,74 @@ justify-content: space-around;
 align-items: center;
 padding: 24px 0;
 
+}
 
 
-} 
-
-   
-   .cabeçalho-imagem{width: 19%;
-
-
-
-   }
-
-
-   .cabeçalho-lista-iten{display: inline-block;
+   .cabeçalho-lista-iten{
+      display: inline-block;
 margin: 0 16px;
 font-size: 24px;
+  
+}
+
+
+
+
+
+.cabeçalho-imagem{
+   width: 18%;}
+
+   .cabeçalho-lista-iten{display:  inline-block;
+               margin: 0 16px;
+               font-size:  24px;
+   
    }
+
+   .escola{
+
+background-image:linear-gradient( #424e61, #4ebfe9);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px;
+
+}
+
+.escola-div-conteudo{
+width: 35%;
+
+}
+
+.escola-imagem{
+      width: 17%;
+
+
+}
+
+
+.escola-titulo{
+    padding: 24px 0;
+    font-size: 30px;
+
+}
+
+.escola-texto-1{
+padding: 24px;
+font-size: 24px;
+
+}
+
+.escola-texto-2{
+      padding: 24px;
+      font-size: 24px;
+      
+      }
+
+
+
+
+
+
+
+
